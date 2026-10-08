@@ -7,9 +7,9 @@
 - GitHub username: rzvorak
 
 ## Branch Work
-- Feature branch created: 
-- What changed on the branch: 
-- Who merged it into `main`: 
+- Feature branch created: `feature-about`
+- What changed on the branch: Added two new bullet points to the About the Team section describing the team's client collaboration approach and focus on long-term value
+- Who merged it into `main`: Student A (Ian Poonolly)
 
 ## Conflict Reflection
 1. Why did the intentional conflict happen?
