@@ -6,6 +6,8 @@
 - Student B: Dummy Person
 - GitHub username: rzvorak
 
+I didn't find a partner in class, so I did this assignment with my roommate instead. We both already have Git experience, so this was mostly a refresher for us.
+
 ## Branch Work
 - Feature branch created: `feature-about`
 - What changed on the branch: Added two new bullet points to the About the Team section describing the team's client collaboration approach and focus on long-term value
