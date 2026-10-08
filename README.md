@@ -1,10 +1,10 @@
 # Git Collaboration Practice
 
 ## Pair Information
-- Student A: Student A
-- GitHub username: student-a
-- Student B: Student B
-- GitHub username: student-b
+- Student A: Ian Poonolly
+- GitHub username: IanP160
+- Student B: Dummy Person
+- GitHub username: rzvorak
 
 ## Branch Work
 - Feature branch created: 
