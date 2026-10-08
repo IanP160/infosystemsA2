@@ -1,8 +1,8 @@
 # Git Collaboration Practice
 
 ## Pair Information
-- Student A: 
-- GitHub username: 
+- Student A: Ian Poonolly
+- GitHub username: IanP160
 - Student B: 
 - GitHub username: 
 
